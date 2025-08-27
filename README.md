@@ -18,13 +18,13 @@
 
 ## 📌 Featured Projects  
 
-- 🎭 **[Face Emotion Detection](https://github.com/gdvarshu/face-emotion-detection)**  
+- 🎭 **[Face Emotion Detection](https://github.com/gdvarshu/face_emotion_detection.git)**  
   Deep learning model to detect human emotions using CNN & OpenCV.  
 
-- ✋🔊 **[Hand Gesture Volume & Brightness Control](https://github.com/gdvarshu/hand-gesture-control)**  
+- ✋🔊 **[Hand Gesture Volume & Brightness Control](https://github.com/gdvarshu/brightness-volume-control-using-hand-gestures.git)**  
   Control your system **volume** and **screen brightness** with simple hand gestures using a webcam. Built with OpenCV and MediaPipe. Works best on Windows.
   
-- 💊 **[Doctor Appointment](https://github.com/gdvarshu/Doctor-appointment)**  
+- 💊 **[Doctor Appointment](https://github.com/gdvarshu/Doctor-appointment.git)**  
   Appointment booking system using JavaScript.  
 
 ---
@@ -38,7 +38,7 @@
 
 ## 🤝 Let’s Connect  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/varshagd) *([add your link here](https://www.linkedin.com/in/varshagd))*   
+- 💼 [LinkedIn](https://www.linkedin.com/in/varshagd)    
 - 📧 Reach me at: **varshagdas@gmail.com**  
 
 ---

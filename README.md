@@ -31,14 +31,14 @@
 
 ## 📈 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gdvarshu&show_icons=true&theme=radical)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdvarshu&layout=compact&theme=radical)  
 
 ---
 
 ## 🤝 Let’s Connect  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/varshagd) *(add your link here)*   
+- 💼 [LinkedIn](https://www.linkedin.com/in/varshagd) *([add your link here](https://www.linkedin.com/in/varshagd))*   
 - 📧 Reach me at: **varshagdas@gmail.com**  
 
 ---

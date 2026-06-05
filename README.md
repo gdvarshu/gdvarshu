@@ -10,7 +10,7 @@
 
 ## 🔧 Tech Stack
 
-- **Languages:** Python, JavaScript, C++, HTML, CSS  
+- **Languages:** Python, C++, HTML, CSS, SQL  
 - **Frameworks & Tools:** React, Node.js, Express, MongoDB, Streamlit, Git, VS Code
 - **AI/ML:** TensorFlow, Keras, OpenCV  
 

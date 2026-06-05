@@ -27,12 +27,7 @@
 - 💊 **[Doctor Appointment](https://github.com/gdvarshu/Doctor-appointment.git)**  
   Appointment booking system using JavaScript.  
 
----
 
-## 📈 GitHub Stats  
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdvarshu&layout=compact&theme=radical)  
 
 ---
 

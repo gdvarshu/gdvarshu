@@ -3,7 +3,7 @@
 🚀 **Software Engineer | Full-Stack Developer | AI/ML Enthusiast**  
 
 💡 Passionate about building projects that combine **Web Development + AI/ML** to solve real-world problems.  
-🌱 Exploring Generative AI, LLMs, Cloud Technologies, and System Design.  
+🌱 Exploring Generative AI, Cloud Technologies, and System Design.  
 ⚡ Passionate about solving real-world problems through technology.
 
 ---
